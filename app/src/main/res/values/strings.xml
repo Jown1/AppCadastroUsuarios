@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AppCadastro</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="idade">Idade</string>
+    <string name="email">E-mail</string>
+    <string name="tv_titulo_cadastro">Faça seu Cadastro!</string>
+    <string name="telefone">Telefone</string>
+    <string name="cidade">Cidade</string>
+    <string name="apelido">Apelido</string>
+    <string name="uf">UF</string>
+    <string name="acao">Ação</string>
+    <string name="aventura">Aventura</string>
+    <string name="rpg">RPG</string>
+    <string name="estrategia">Estrategia</string>
+    <string name="titulo_genero">Gêneros favoritos</string>
+    <string-array name="spinnerItems">
+        <item>Selecione...</item>
+        <item>AC</item>
+        <item>AL</item>
+        <item>AM</item>
+        <item>AP</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MG</item>
+        <item>MS</item>
+        <item>MT</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>PR</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>RS</item>
+        <item>SC</item>
+        <item>SE</item>
+        <item>SP</item>
+        <item>TO</item>
+    </string-array>
+</resources>
